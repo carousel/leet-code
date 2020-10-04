@@ -17,6 +17,8 @@ package com.miro.leetcode;
  * <p>
  * Input: nums = [3,3], target = 6
  * Output: [0,1]
+ * Hints
+ * traverse/select/remember index/add pair(combine)/
  */
 public class TwoSum {
     public int[] find(int[] nums, int target) {
