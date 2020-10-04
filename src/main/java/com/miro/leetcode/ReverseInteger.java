@@ -1,6 +1,8 @@
 package com.miro.leetcode;
 
 /**
+ * DOMAIN - MATH/INTEGERS/TECHNICAL
+ *
  * Unsigned - positive
  * Signed - can be negative
  * Given a 32-bit signed integer, reverse digits of an integer.
